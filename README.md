@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul-Wesley Jeanty
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C, Java, Python,Javascript
+- 🌱 I’m currently learning C, Java, Python, Javascript, SQL.
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 Contact me on Github or Gmail (@Sley530 / paul-wesleyjeanty@my.uopeople.edu).
 
