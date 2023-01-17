@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/leyby10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leyby10" height="30" width="40" /></a>
+<a href="https://twitter.com/sley530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leyby10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/paul-wesley-jeanty-89431b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/paul-wesley-jeanty-89431b260" height="30" width="40" /></a>
 <a href="https://fb.com/paul chabby jeanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paul chabby jeanty" height="30" width="40" /></a>
 <a href="https://instagram.com/sley.530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sley.530" height="30" width="40" /></a>
