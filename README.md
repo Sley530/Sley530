@@ -25,8 +25,8 @@
 
 - ⚡ Fun fact **I love playing piano and flute.**
 
-# Badges
 
+<h3 align="left">Badges:</h3>
 <p align="left">
 <img align="center" src = "https://img.shields.io/badge/smart-FABC0C.svg?style=for-the-badge&logo=smart&logoColor=black">
 <img align="center" src = "https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white">
