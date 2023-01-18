@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying at [University of the People](https://uopeople.edu/)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Java**
+- 🌱 I’m currently learning **JavaScript, HTML5, CSS, Java**
 
 - 👯 I’m looking to collaborate on **Some interesting projects**
 
