@@ -27,7 +27,7 @@
 
 # Badges
 
-https://img.shields.io/badge/smart-FABC0C.svg?style=for-the-badge&logo=smart&logoColor=black
+<image src = "https://img.shields.io/badge/smart-FABC0C.svg?style=for-the-badge&logo=smart&logoColor=black">
 https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white
 https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
 https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black
