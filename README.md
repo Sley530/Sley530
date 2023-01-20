@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, HTML5, CSS, Java**
 
-- 👯 I’m looking to collaborate on **Some interesting projects**
+- 👯 I’m looking to collaborate on **some interesting projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sley530](https://github.com/Sley530)
 
