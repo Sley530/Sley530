@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sley530" alt="sley530" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sley530" target="blank"><img src="https://img.shields.io/twitter/follow/sley530?logo=twitter&style=for-the-badge" alt="sley530" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sley530" target="blank"><img src="https://img.shields.io/twitter/follow/Sley530?logo=twitter&style=for-the-badge" alt="Sley530" /></a> </p>
 
 - 🔭 I’m currently studying at [University of the People](https://uopeople.edu/)
 
