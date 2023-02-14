@@ -38,16 +38,13 @@
 <a href='https://linkedin.com/in/www.linkedin.com/in/paul-wesley-jeanty-89431b260'><img src='./images/LinkedIN.svg' width='38px'/></a>
 <a href='https://twitter.com/Sley530'><img src='./images/Twitter.svg' width='38px'/></a>
 <a href='https://wa.me/message/GOGWNF3PPP6XG1'><img src='./images/WhatsApp.svg' width='38px'/></a>
+<a href='t.me/sley530'><img src='./images/Telegram.svg' width='38px'/></a>
+<a href='sley530.medium.com'><img src='./images/Medium.svg' width='38px'/></a>
+<a href='https://www.youtube.com/channel/UCcg-0DP-YMMaJgVC7gOFk1Q'><img src='./images/Youtube.svg' width='38px'/></a>
+<a href='https://discord.com/channels/@sley#2766'><img src='./images/Discord.svg' width='38px'/></a>
+<a href='https://g.dev/sley530'><img src='./images/Google.svg' width='38px'/></a>
+<a href='https://www.hackerrank.com/@jpwesley530'><img src='./images/Hackerrank.svg' width='38px'/></a>
 
-
-
-[![telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/sley530)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sley530)
-[![google dev](https://img.shields.io/badge/Google%20Cardboard-FF7143.svg?style=for-the-badge&logo=Google-Cardboard&logoColor=white)](https://g.dev/sley530)
-[![hackerrank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@jpwesley530)
-[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](sley530.medium.com)
-[![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=iOS&logoColor=white)](jpwesley532@icloud.com)
-[![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcg-0DP-YMMaJgVC7gOFk1Q)
 
 ### 🛠 Tools and Hard skills
 
