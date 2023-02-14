@@ -88,10 +88,10 @@ Name | Badges
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sley530&theme=dark" alt="Sley530" /></p>
 <br/>
- <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
+ <b>Note:</b> The top languages shown here is just a measure of what I have posted here on Github and not my actual skill level
 
 
-[![Sley's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sley530)](https://github.com/sley530/github-readme-activity-graph)
+[![Sley's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sley530&&theme=react-dark)](https://github.com/sley530/github-readme-activity-graph)
 
 <br/>
 
