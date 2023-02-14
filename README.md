@@ -73,8 +73,7 @@ Name | Badges
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/Sley530/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sley530">
+<a ![Profile Views](https://komarev.com/ghpvc/?username=sley530&color=brightgreen&style=plastic)
 </a>
 <a href="https://github.com/Sley530?tab=followers"><img src="https://img.shields.io/github/followers/Sley530?label=Followers&style=social" alt="GitHub Badge"></a>
 
