@@ -99,4 +99,5 @@ Name | Badges
 Sley530/Sley530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Sley's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710sley530
+
+[![Sley's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sley530)](https://github.com/sley530/github-readme-activity-graph)
