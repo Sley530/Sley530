@@ -5,7 +5,7 @@
 <img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sley530&label=Profile%20views&color=0e75b6&style=flat" alt="sley530" /> </p>
-![Profile Views](https://komarev.com/ghpvc/?username=sley530&color=brightgreen&style=plastic)
+[![Profile Views](https://komarev.com/ghpvc/?username=sley530&color=brightgreen&style=plastic)]
 <p align="left"> <a href="https://twitter.com/Sley530" target="blank"><img src="https://img.shields.io/twitter/follow/Sley530?logo=twitter&style=for-the-badge" alt="Sley530" /></a> </p>
 
 - 🔭 I’m currently studying at [University of the People](https://uopeople.edu/)
