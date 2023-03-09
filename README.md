@@ -82,7 +82,7 @@ Name | Badges
 
 
  ## ⚡ Statistics
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sley530&langs_count=10&layout=compact&theme=dark&hide_border=false" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sley530&langs_count=8&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sley530&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Sley's github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sley530&theme=dark" alt="Sley530" /></p>
