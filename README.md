@@ -1,7 +1,7 @@
 <img alt="MasterHead" width="1200" height="300" src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg">
 <h1 align="center">Hi 👋, I'm Paul-Wesley Jeanty</h1>
 <h3 align="center">A passionate Software Engineering and Computer Science student from Haiti.</h3>
-<img align= "right" alt="Coding" width="500" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align= "right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## ❤ Views and Followers.
 ![Profile Views](https://komarev.com/ghpvc/?username=sley530&color=brightgreen&style=plastic)
